@@ -11,7 +11,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://mern-filtering-api.onrender.com",
+    origin: "https://filtering-h43u.onrender.com",
     methods: "GET",
     allowedHeaders: "Content-Type,Authorization",
   })
